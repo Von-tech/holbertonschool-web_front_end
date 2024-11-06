@@ -1,0 +1,9 @@
+.element
+{
+width: 200px;
+height 200px;
+background-image: url('C:\Users\Vonzell\Downloads\logo-white.png');
+background-size:contain;
+background-repeat: no-repeat;
+background-position: center;
+}
